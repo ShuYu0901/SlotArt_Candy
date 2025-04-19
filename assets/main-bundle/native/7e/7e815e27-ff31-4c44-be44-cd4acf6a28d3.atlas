@@ -1,0 +1,41 @@
+
+LightEffect.png
+size: 430,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halo1
+  rotate: false
+  xy: 257, 186
+  size: 144, 125
+  orig: 146, 127
+  offset: 1, 1
+  index: -1
+Halo2
+  rotate: true
+  xy: 257, 313
+  size: 184, 171
+  orig: 188, 178
+  offset: 1, 1
+  index: -1
+lightRing1
+  rotate: true
+  xy: 2, 275
+  size: 222, 253
+  orig: 224, 255
+  offset: 1, 1
+  index: -1
+lightSpot
+  rotate: true
+  xy: 215, 2
+  size: 182, 203
+  orig: 184, 205
+  offset: 1, 1
+  index: -1
+loghtRing2
+  rotate: true
+  xy: 2, 63
+  size: 210, 211
+  orig: 212, 213
+  offset: 1, 1
+  index: -1

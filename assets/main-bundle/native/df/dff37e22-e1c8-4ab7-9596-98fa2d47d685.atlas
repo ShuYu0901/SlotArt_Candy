@@ -1,0 +1,104 @@
+
+NearWin.png
+size: 1358,1254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Main
+  rotate: true
+  xy: 2, 678
+  size: 210, 1250
+  orig: 212, 1252
+  offset: 1, 1
+  index: -1
+Star
+  rotate: false
+  xy: 1105, 118
+  size: 129, 137
+  orig: 131, 139
+  offset: 1, 1
+  index: -1
+圖層 154
+  rotate: true
+  xy: 2, 433
+  size: 243, 1195
+  orig: 245, 1197
+  offset: 1, 1
+  index: -1
+圖層 160
+  rotate: true
+  xy: 2, 2
+  size: 57, 1122
+  orig: 59, 1124
+  offset: 1, 1
+  index: -1
+圖層 161
+  rotate: false
+  xy: 1254, 74
+  size: 70, 814
+  orig: 72, 816
+  offset: 1, 1
+  index: -1
+圖層 163 拷貝
+  rotate: true
+  xy: 2, 1079
+  size: 173, 1354
+  orig: 182, 1371
+  offset: 6, 10
+  index: -1
+圖層 164
+  rotate: true
+  xy: 2, 260
+  size: 171, 1042
+  orig: 173, 1044
+  offset: 1, 1
+  index: -1
+圖層 165
+  rotate: true
+  xy: 2, 890
+  size: 187, 1336
+  orig: 203, 1717
+  offset: 11, 301
+  index: -1
+圖層 166
+  rotate: true
+  xy: 2, 61
+  size: 197, 969
+  orig: 199, 971
+  offset: 1, 1
+  index: -1
+圖層 168
+  rotate: false
+  xy: 1340, 1044
+  size: 13, 33
+  orig: 15, 35
+  offset: 1, 1
+  index: -1
+圖層 169
+  rotate: false
+  xy: 973, 113
+  size: 130, 142
+  orig: 132, 144
+  offset: 1, 1
+  index: -1
+圖層 170
+  rotate: true
+  xy: 973, 71
+  size: 40, 55
+  orig: 42, 57
+  offset: 1, 1
+  index: -1
+圖層 171
+  rotate: false
+  xy: 1199, 634
+  size: 40, 42
+  orig: 42, 44
+  offset: 1, 1
+  index: -1
+群組 64
+  rotate: false
+  xy: 1046, 257
+  size: 138, 174
+  orig: 140, 176
+  offset: 1, 1
+  index: -1

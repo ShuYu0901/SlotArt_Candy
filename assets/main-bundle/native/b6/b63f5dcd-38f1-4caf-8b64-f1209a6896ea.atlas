@@ -1,0 +1,13 @@
+
+Win_Label.png
+size: 490,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Win_Label
+  rotate: false
+  xy: 2, 2
+  size: 486, 120
+  orig: 488, 122
+  offset: 1, 1
+  index: -1

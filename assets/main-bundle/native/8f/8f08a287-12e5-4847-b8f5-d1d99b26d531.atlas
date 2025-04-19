@@ -1,0 +1,104 @@
+
+Wild.png
+size: 681,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_Wild_Candy
+  rotate: true
+  xy: 536, 27
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+Symbol_Wild_Frost
+  rotate: false
+  xy: 282, 242
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+Symbol_Wild_Head
+  rotate: false
+  xy: 388, 24
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Symbol_Wild_Light1
+  rotate: false
+  xy: 390, 253
+  size: 92, 63
+  orig: 94, 65
+  offset: 1, 1
+  index: -1
+Symbol_Wild_Light2
+  rotate: false
+  xy: 445, 39
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+Symbol_Wild_Shadow
+  rotate: true
+  xy: 388, 79
+  size: 161, 146
+  orig: 163, 148
+  offset: 1, 1
+  index: -1
+blue_light
+  rotate: true
+  xy: 487, 295
+  size: 212, 170
+  orig: 214, 172
+  offset: 1, 1
+  index: -1
+rainbow_explode
+  rotate: false
+  xy: 2, 242
+  size: 278, 265
+  orig: 278, 266
+  offset: 0, 1
+  index: -1
+round_FX
+  rotate: false
+  xy: 2, 2
+  size: 239, 238
+  orig: 241, 240
+  offset: 1, 1
+  index: -1
+round_halo
+  rotate: false
+  xy: 536, 159
+  size: 132, 134
+  orig: 134, 136
+  offset: 1, 1
+  index: -1
+spark_blue
+  rotate: false
+  xy: 282, 318
+  size: 203, 189
+  orig: 205, 191
+  offset: 1, 1
+  index: -1
+spark_blue2
+  rotate: true
+  xy: 243, 30
+  size: 210, 143
+  orig: 212, 145
+  offset: 1, 1
+  index: -1
+spark_dot
+  rotate: true
+  xy: 390, 242
+  size: 9, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+spark_fire
+  rotate: false
+  xy: 659, 485
+  size: 20, 22
+  orig: 22, 24
+  offset: 1, 1
+  index: -1

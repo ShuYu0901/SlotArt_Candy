@@ -1,0 +1,90 @@
+
+FreeSpin.png
+size: 264,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_Scatter_E1
+  rotate: false
+  xy: 216, 375
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_E2
+  rotate: false
+  xy: 216, 316
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_F
+  rotate: false
+  xy: 216, 257
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_Frame
+  rotate: true
+  xy: 2, 2
+  size: 136, 130
+  orig: 138, 132
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_I
+  rotate: true
+  xy: 205, 183
+  size: 29, 56
+  orig: 31, 58
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_LightEffect
+  rotate: true
+  xy: 2, 140
+  size: 120, 158
+  orig: 122, 160
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_N
+  rotate: false
+  xy: 162, 201
+  size: 41, 59
+  orig: 43, 61
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_P
+  rotate: true
+  xy: 205, 214
+  size: 41, 57
+  orig: 43, 59
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_Panel
+  rotate: true
+  xy: 134, 6
+  size: 132, 126
+  orig: 134, 128
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_R
+  rotate: false
+  xy: 162, 141
+  size: 38, 58
+  orig: 40, 60
+  offset: 1, 1
+  index: -1
+Symbol_Scatter_S
+  rotate: true
+  xy: 202, 147
+  size: 34, 55
+  orig: 36, 57
+  offset: 1, 1
+  index: -1
+blue_light
+  rotate: false
+  xy: 2, 262
+  size: 212, 170
+  orig: 214, 172
+  offset: 1, 1
+  index: -1

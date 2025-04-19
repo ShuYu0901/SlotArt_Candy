@@ -1,0 +1,69 @@
+
+M1.png
+size: 127,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_M1_Ear_Left
+  rotate: true
+  xy: 2, 658
+  size: 15, 94
+  orig: 17, 96
+  offset: 1, 1
+  index: -1
+Symbol_M1_Ear_Right
+  rotate: true
+  xy: 2, 641
+  size: 15, 94
+  orig: 17, 96
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light1
+  rotate: true
+  xy: 2, 375
+  size: 113, 116
+  orig: 115, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light2
+  rotate: false
+  xy: 2, 490
+  size: 113, 61
+  orig: 115, 63
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light3
+  rotate: false
+  xy: 2, 610
+  size: 109, 29
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+Symbol_M1_Light4
+  rotate: false
+  xy: 2, 553
+  size: 113, 55
+  orig: 115, 57
+  offset: 1, 1
+  index: -1
+Symbol_M1_Package
+  rotate: true
+  xy: 2, 259
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_Shadow
+  rotate: true
+  xy: 2, 2
+  size: 139, 123
+  orig: 141, 125
+  offset: 1, 1
+  index: -1
+Symbol_M1_Star
+  rotate: true
+  xy: 2, 143
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1

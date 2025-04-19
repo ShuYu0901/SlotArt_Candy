@@ -1,0 +1,20 @@
+
+FreeSpin_Collect_Light.png
+size: 355,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_dot
+  rotate: true
+  xy: 264, 163
+  size: 98, 89
+  orig: 100, 91
+  offset: 1, 1
+  index: -1
+red_light
+  rotate: true
+  xy: 2, 2
+  size: 259, 260
+  orig: 261, 262
+  offset: 1, 1
+  index: -1

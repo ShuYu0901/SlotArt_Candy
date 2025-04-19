@@ -1,0 +1,69 @@
+
+ExplodeLight.png
+size: 419,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_light
+  rotate: false
+  xy: 193, 35
+  size: 212, 170
+  orig: 214, 172
+  offset: 1, 1
+  index: -1
+rainbow_explode
+  rotate: false
+  xy: 2, 207
+  size: 278, 265
+  orig: 278, 266
+  offset: 0, 1
+  index: -1
+ribbon_blue
+  rotate: false
+  xy: 366, 250
+  size: 37, 88
+  orig: 39, 90
+  offset: 1, 1
+  index: -1
+ribbon_darkpink
+  rotate: false
+  xy: 405, 284
+  size: 12, 54
+  orig: 14, 56
+  offset: 1, 1
+  index: -1
+ribbon_pink
+  rotate: false
+  xy: 405, 245
+  size: 9, 37
+  orig: 11, 39
+  offset: 1, 1
+  index: -1
+ribbon_purple
+  rotate: true
+  xy: 282, 250
+  size: 45, 47
+  orig: 47, 49
+  offset: 1, 1
+  index: -1
+ribbon_yellow
+  rotate: true
+  xy: 282, 297
+  size: 41, 82
+  orig: 43, 84
+  offset: 1, 1
+  index: -1
+round_halo
+  rotate: true
+  xy: 282, 340
+  size: 132, 134
+  orig: 134, 136
+  offset: 1, 1
+  index: -1
+spark_blue
+  rotate: true
+  xy: 2, 2
+  size: 203, 189
+  orig: 205, 191
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+Symbol_M1.png
+size: 236,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_M1_Ear_Left
+  rotate: true
+  xy: 137, 398
+  size: 16, 94
+  orig: 18, 96
+  offset: 1, 1
+  index: -1
+Symbol_M1_Ear_Right
+  rotate: true
+  xy: 137, 382
+  size: 14, 94
+  orig: 17, 96
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light1
+  rotate: true
+  xy: 2, 33
+  size: 113, 116
+  orig: 115, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light2
+  rotate: false
+  xy: 120, 68
+  size: 113, 61
+  orig: 115, 63
+  offset: 1, 1
+  index: -1
+Symbol_M1_Light3
+  rotate: false
+  xy: 2, 2
+  size: 109, 29
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+Symbol_M1_Light4
+  rotate: false
+  xy: 120, 11
+  size: 113, 55
+  orig: 115, 57
+  offset: 1, 1
+  index: -1
+Symbol_M1_Package
+  rotate: true
+  xy: 2, 148
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_Shadow
+  rotate: false
+  xy: 2, 264
+  size: 131, 116
+  orig: 133, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_Star
+  rotate: false
+  xy: 120, 131
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1
+Symbol_M1_fillBot
+  rotate: true
+  xy: 135, 249
+  size: 131, 90
+  orig: 133, 92
+  offset: 0, 1
+  index: -1
+Symbol_M1_fillTop
+  rotate: false
+  xy: 2, 382
+  size: 133, 32
+  orig: 133, 32
+  offset: 0, 0
+  index: -1
